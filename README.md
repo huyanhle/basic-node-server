@@ -1,2 +1,2 @@
-# basic-node-server
-erver cơ bản nhận và trả lời request bằng node js
+# back-end dev
+server cơ bản nhận và trả lời request bằng php
